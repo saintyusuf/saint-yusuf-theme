@@ -1,0 +1,21 @@
+{
+  "name": "saint-yusuf-theme",
+  "displayName": "Saint Yusuf Theme",
+  "description": "A dark theme for Visual Studio Code",
+  "version": "1.0",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Saint Yusuf Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Saint Yusuf Theme-color-theme.json"
+      }
+    ]
+  }
+}
